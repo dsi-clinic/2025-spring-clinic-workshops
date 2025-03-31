@@ -1,0 +1,1 @@
+echo $SHELL >> my_shell.txt
